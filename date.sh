@@ -11,4 +11,4 @@ echo "Machine Time right now: $now"
 echo "System successfully executed :)"
 
 
-echo "Your user name is $USER"e
+echo "Your user name is $USER"
